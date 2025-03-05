@@ -1,35 +1,35 @@
-YMCA,0,0,0,0,1,0
-YMCA Entrance,0,0,0,1,1,0
-Winton Rd.,0,0,0,0,0,1
-Goodwill,1,1,1,1,1,1
-Saginaw Dr.,1,1,1,1,1,1
-Jerimiah's,0,1,1,1,0,1
-390 Underpass,1,1,1,1,1,1
-At Home,1,1,1,1,1,1
-E. Henrietta Rd.,1,0,1,1,1,1
-Best Western,1,1,1,0,1,1
-Clay Rd.,1,0,0,1,0,1
-Marketplace Dr.,1,1,1,1,1,1
-Hylan Dr.,1,1,0,0,1,1
-W. Henrietta Rd.,0,0,1,1,1,1
-Bruegger's,1,1,1,1,1,1
-Park Point,1,0,0,1,1,0
+YMCA,0,0,0,0,1,0,0
+YMCA Entrance,0,0,0,1,1,0,0
+Winton Rd.,0,0,0,0,0,1,0
+Goodwill,1,1,1,1,1,1,1
+Saginaw Dr.,1,1,1,1,1,1,1
+Jerimiah's,0,1,1,1,0,1,1
+390 Underpass,1,1,1,1,1,1,1
+At Home,1,1,1,1,1,1,1
+E. Henrietta Rd.,1,0,1,1,1,1,1
+Best Western,1,1,1,0,1,1,1
+Clay Rd.,1,0,0,1,0,1,0
+Marketplace Dr.,1,1,1,1,1,1,1
+Hylan Dr.,1,1,0,0,1,1,1
+W. Henrietta Rd.,0,0,1,1,1,1,1
+Bruegger's,1,1,1,1,1,1,1
+Park Point,1,0,0,1,1,0,0
 ,,,,,
 ,,,,,
 ,,,,,
-YMCA,1,1,1,1,
-YMCA Entrance,1,1,0,0,
-Winton Rd.,0,0,1,1,
-Goodwill,1,1,1,1,
-Saginaw Dr.,1,0,1,1,
-Jerimiah's,1,1,1,1,
-390 Underpass,1,1,1,1,
-At Home,1,1,1,1,
-E. Henrietta Rd.,1,1,1,0,
-Best Western,1,1,1,1,
-Clay Rd.,1,1,1,1,
-Marketplace Dr.,1,1,1,0,
-Hylan Dr.,1,1,1,1,
-W. Henrietta Rd.,0,1,1,1,
-Bruegger's,1,1,1,1,
-Park Point,0,1,0,1,
+YMCA,1,1,1,1,1
+YMCA Entrance,1,1,0,0,0
+Winton Rd.,0,0,1,1,1
+Goodwill,1,1,1,1,1
+Saginaw Dr.,1,0,1,1,1
+Jerimiah's,1,1,1,1,1
+390 Underpass,1,1,1,1,1
+At Home,1,1,1,1,1
+E. Henrietta Rd.,1,1,1,0,1
+Best Western,1,1,1,1,1
+Clay Rd.,1,1,1,1,1
+Marketplace Dr.,1,1,1,0,0
+Hylan Dr.,1,1,1,1,0
+W. Henrietta Rd.,0,1,1,1,1
+Bruegger's,1,1,1,1,1
+Park Point,0,1,0,1,1
